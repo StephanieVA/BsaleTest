@@ -2,8 +2,10 @@ import express from 'express'
 import productRoutes from './routes/product.routes.js'
 import indexRoutes from './routes/index.routers.js'
 import categoryRoutes from './routes/category.routes.js'
-
+import cors from 'cors'
 const app = express()
+
+app.use(cors())
 
 app.use('/api',indexRoutes)
 app.use('/api',categoryRoutes)
