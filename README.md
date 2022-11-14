@@ -3,6 +3,11 @@
 ### INTRODUCCION
 
 Se uso la API para consultar información de la base de datos y mostrar en detalle en la pagina web.
+Se uso el Node js para la configuracion de la API junto con JAVASCRIPT.
+
+### OBJETIVO
+- Dar a conocer las consultas de la API.
+- Dar a conocer a los clientos los productos existentes
 
 ### CONFIGURACION
 - Abrir terminal y ejecutar el siguiente comando "npm init -y", para que podamos instalar modulos de node js para la configuración del API.
