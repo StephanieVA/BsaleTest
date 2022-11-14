@@ -18,8 +18,11 @@ Se uso la API para consultar información de la base de datos y mostrar en detal
   5. Archivo config: Esta las variables para la conexion de la base de datos.
   6. Archivo index :Se encuentra el port deonde se podra visualizar los urls de consultas.
  - Los urls de consultas son 4 y son las siguientes:
-  1. Consultar todas los producto
-  2. Consultar todas las categorias
-  3. Consultar los productos por id de categorias
-  4. Consultar los productos por nombre
+  1. Consultar todas los producto: https://bsaletest-production-c296.up.railway.app/api/product
+  ![product](https://user-images.githubusercontent.com/66794568/201578622-43ec39b1-c431-47eb-9977-7965ee1de475.png)
+  2. Consultar todas las categorias: https://bsaletest-production-c296.up.railway.app/api/category
+  
+  3. Consultar los productos por id de categorias: https://bsaletest-production-c296.up.railway.app/api/productCat/2
+  
+  4. Consultar los productos por nombre: https://bsaletest-production-c296.up.railway.app/api/productName
 
