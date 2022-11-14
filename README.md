@@ -21,8 +21,8 @@ Se uso la API para consultar información de la base de datos y mostrar en detal
   1. Consultar todas los producto: https://bsaletest-production-c296.up.railway.app/api/product
   ![product](https://user-images.githubusercontent.com/66794568/201578622-43ec39b1-c431-47eb-9977-7965ee1de475.png)
   2. Consultar todas las categorias: https://bsaletest-production-c296.up.railway.app/api/category
-  
+  https://github.com/StephanieVA/BsaleTest/issues/5#issue-1447389490
   3. Consultar los productos por id de categorias: https://bsaletest-production-c296.up.railway.app/api/productCat/2
-  
+  ![productCat](https://user-images.githubusercontent.com/66794568/201578884-14947fa7-81dd-4243-8dc9-252ce429c3f6.png)
   4. Consultar los productos por nombre: https://bsaletest-production-c296.up.railway.app/api/productName
-
+  ![productName](https://user-images.githubusercontent.com/66794568/201578838-a93934c0-438d-4442-9dca-982c3970e067.png)
